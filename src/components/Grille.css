@@ -1,0 +1,62 @@
+div .backColor {
+  margin: auto;
+  width: 630px;
+  height: 250px;
+  background-color: #14bdac;
+  display: flex;
+}
+
+div .fullSquare {
+  display: flex;
+  flex-wrap: wrap;
+  width: 220px;
+  margin: auto;
+  background-color: #14bdac;
+}
+
+div .square {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+  font-size: 40px;
+}
+
+#one {
+  border-bottom: 5px #0da192 solid;
+  border-right: 5px #0da192 solid;
+}
+
+#two {
+  border-bottom: 5px #0da192 solid;
+  border-right: 5px #0da192 solid;
+}
+
+#three {
+  border-bottom: 5px #0da192 solid;
+}
+
+#four {
+  border-bottom: 5px #0da192 solid;
+  border-right: 5px #0da192 solid;
+}
+
+#five {
+  border-bottom: 5px #0da192 solid;
+  border-right: 5px #0da192 solid;
+}
+
+#six {
+  border-bottom: 5px #0da192 solid;
+}
+
+#seven {
+  border-right: 5px #0da192 solid;
+}
+
+#eight {
+  border-right: 5px #0da192 solid;
+}
